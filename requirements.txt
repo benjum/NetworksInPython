@@ -1,0 +1,7 @@
+jupyter-dash
+dash-cytoscape
+jupyter_server_proxy
+networkx
+bokeh
+matplotlib
+pandas
